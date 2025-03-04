@@ -46,6 +46,6 @@ urllib3[secure]==1.26.3; python_version >= '3.5'
 uvicorn[standard]==0.13.4
 uvloop==0.15.2
 watchgod==0.7
-websockets==8.1
+websockets==9.1
 wrapt==1.12.1
 yarl==1.6.3; python_version >= '3.6'
